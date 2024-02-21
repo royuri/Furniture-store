@@ -1,3 +1,3 @@
 # Furniture-store
 
-Furniture-store built using HTML, CSS/C and Javascript.
+Furniture-store built using HTML, CSS/ and Javascript.
