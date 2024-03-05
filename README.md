@@ -1,3 +1,3 @@
 # Furniture-store
 
-Furniture-store built using HTML, CSS/SCSS and Javascript.
+Digital Furniture-store built using HTML, CSS/SCSS and Javascript.
