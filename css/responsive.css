@@ -8,7 +8,7 @@
   }
 }
 
-@media (max-width: 992px) {
+@media (max-width: 992) {
   #navbarSupportedContent {
     opacity: 1;
     transform: none;
